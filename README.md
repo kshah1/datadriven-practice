@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/fair_jaguar_1372), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Original Keeper](./practice/python/the-original-keeper) | Python | Easy | 2026-10-13 |
 | [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-10-12 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-07 |
 
