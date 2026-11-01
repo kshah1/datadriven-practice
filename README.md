@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/fair_jaguar_1372), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Cipher Wheel](./practice/python/the-cipher-wheel) | Python | Easy | 2026-11-01 |
 | [The Squeeze](./practice/python/the-squeeze) | Python | Easy | 2026-10-26 |
 | [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-10-13 |
 | [The Original Keeper](./practice/python/the-original-keeper) | Python | Easy | 2026-10-13 |
